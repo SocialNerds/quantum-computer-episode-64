@@ -23,22 +23,23 @@ Login to the container,
 docker exec -it qc /bin/bash -c "TERM=$TERM exec bash"
 ~~~~
 
-Run
+Run,
 ~~~~
 python main.py
 ~~~~
 
-You will see something like
+You will see something like,
 ~~~~
 Local backends:  ['local_qasm_simulator', 'local_statevector_simulator', 'local_unitary_simulator']
 simulation:  COMPLETED
 {'00': 512, '11': 512}
 ~~~~
 
-To stop it
+To stop it,
 ~~~~
 exit
 docker-compose down
 ~~~~
+
 # Maintainer
 [Thanos Nokas](https://www.linkedin.com/in/thanosnokas)
