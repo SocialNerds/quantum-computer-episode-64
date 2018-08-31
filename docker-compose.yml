@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  qc:
+    build:
+      context: ./qc
+    container_name: qc
+    volumes:
+      - ./data:/data:cached
