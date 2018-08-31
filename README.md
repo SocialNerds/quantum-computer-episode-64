@@ -41,5 +41,8 @@ exit
 docker-compose down
 ~~~~
 
-# Maintainer
-[Thanos Nokas](https://www.linkedin.com/in/thanosnokas)
+# By SocialNerds
+* [SocialNerds.gr](https://www.socialnerds.gr/)
+* [YouTube](https://www.youtube.com/SocialNerdsGR)
+* [Facebook](https://www.facebook.com/SocialNerdsGR)
+* [Twitter](https://twitter.com/socialnerdsgr)
